@@ -13,3 +13,9 @@
   background-clip: text;
   text-transform: uppercase;
 }
+.lista-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  width: 60vw;
+}
